@@ -1,0 +1,35 @@
+// Variables
+// color schema
+$black: #181719;
+$gray-primary: #a9a9a9;
+$gray-secondary: #828282;
+$white: #ffffff;
+// fonts
+$title-font: 'Lora', serif;
+$primary-font: 'Montserrat', sans-serif;
+$display-font: 'Crimson Pro', sans-serif;
+// breakpoints
+$bp-largest: 1441px;
+$bp-large: 1000px;
+$bp-medium: 800px;
+$bp-small: 600px;
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  // width: 337px;
+  // margin-left: auto;
+  // margin-right: auto;
+  // @media (min-width: $bp-small) {
+  //   width: 580px;
+  // }
+  // @media (min-width: $bp-medium) {
+  //   width: 650px;
+  // }
+  // @media (min-width: $bp-large) {
+  //   width: 932px;
+  // }
+}
